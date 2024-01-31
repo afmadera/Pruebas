@@ -12,7 +12,7 @@ public class App {
         miDic.put("Saludo", "Buen dia" + 3);
         miarray.add(miDic);
 
-        miarray.add("Buenos dias");
+        miarray.add("Buenos dia");
         miDic.put(3,6);
 
         int indice = 0;
