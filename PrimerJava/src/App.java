@@ -15,8 +15,18 @@ public class App {
         miarray.add("Buenos dias");
         miDic.put(3,6);
 
+        int indice = 0;
+
         for (Object dato: miarray){
             System.out.println(dato);
+            contar(indice);
+            indice++;
+        }
+    }
+
+    public static void contar(int indice)  {
+        for (int i = 0; i <= indice; i++){
+            System.out.println(i+1);
         }
     }
 }
