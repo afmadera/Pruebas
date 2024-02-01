@@ -1,4 +1,4 @@
-package main;
+package Carrera;
 
 public class Participante {
     int id;
