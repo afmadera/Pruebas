@@ -1,6 +1,6 @@
 package main;
 
-public class Main {
+public class Temperaturas {
     public static void main(String[] args) {
         String ciudades[] = { "Londres", "Madrid", "Nueva York", "Buenos Aires", "Asunción", "São Paulo", "Lima",
                 "Santiago de Chile", "Lisboa", "Tokio" };
