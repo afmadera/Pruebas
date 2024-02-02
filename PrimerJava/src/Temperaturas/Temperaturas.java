@@ -1,4 +1,4 @@
-package main;
+package Temperaturas;
 
 public class Temperaturas {
     public static void main(String[] args) {

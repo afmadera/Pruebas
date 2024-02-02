@@ -15,8 +15,8 @@ public class Main {
 
         Inscripcion inscripcion = new Inscripcion(1, "Circuito medio", participante);
 
-        ArrayList<Object> participantes = new ArrayList<>();
-        participantes.add(participante);
+        ArrayList<Object> inscripciones = new ArrayList<>();
+        inscripciones.add(inscripcion);
 
     }
 }
